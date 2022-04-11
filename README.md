@@ -5,6 +5,7 @@
 - Amazing ressources from Oli Larkin
   - <https://github.com/olilarkin/awesome-musicdsp>
 - curated list of audio DSP and plugin development resources from BillyDM <https://github.com/BillyDM/Awesome-Audio-DSP>
+- THE AUDIO PROGRAMMER – https://www.youtube.com/c/TheAudioProgrammer/playlists
 
 ## Audio Development – HELP / COMMUNITY
 

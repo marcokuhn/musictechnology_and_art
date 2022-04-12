@@ -46,6 +46,7 @@
 
 - <http://cplusplus.com>
 - C++ Video Tutorials – <https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb>
+- C++ Reference / Tutorials – <https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/?ref=lbp>
 
 ## DSP Algorithm / Libraries
 

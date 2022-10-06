@@ -21,6 +21,7 @@
 
 - JUCE REFERENCE – <https://docs.juce.com/master/index.html>
 - TUTORIALS - <https://juce.com/learn/tutorials>
+- An awesome list of open source JUCE libraries, plugins and utilities – <https://github.com/sudara/awesome-juce>
 
 ### IDE SETUP
 
@@ -31,7 +32,7 @@
 - MAC – XCODE
   - <https://developer.apple.com/xcode/>
 
-### MAXIMILIAN– EASY TO USE AUDIO FRAMEWORK
+## MAXIMILIAN– EASY TO USE AUDIO FRAMEWORK
 
 - Maximilian Library
   - <https://github.com/micknoise/Maximilian>
@@ -57,8 +58,10 @@
 
 ### AI / ML – Maschine Learning
 
+- A Machine Learning Ressource Collection – <https://github.com/marcokuhn/ML>
 - Tutorials by Valerio Velardo - The Sound of AI
 <https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ>
+
 
 ## WEBAUDIO
 

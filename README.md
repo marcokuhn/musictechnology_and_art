@@ -15,8 +15,6 @@
   - General - <https://www.kvraudio.com/forum/>
   - DSP Plug.in Development - <https://www.kvraudio.com/forum/viewforum.php?f=33>
 
-# Frameworks
-
 ## JUCE
 
 ### DOCS
@@ -34,7 +32,7 @@
 - MAC – XCODE
   - <https://developer.apple.com/xcode/>
 
-## iPlug2
+## iPlug2 - C++ audio plug-in framework for desktop, mobile (iOS) and web
 https://github.com/iPlug2
 
 

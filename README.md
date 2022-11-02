@@ -15,6 +15,8 @@
   - General - <https://www.kvraudio.com/forum/>
   - DSP Plug.in Development - <https://www.kvraudio.com/forum/viewforum.php?f=33>
 
+# Frameworks
+
 ## JUCE
 
 ### DOCS
@@ -31,6 +33,10 @@
     - <https://www.youtube.com/watch?v=XJ8GfZbFkYM>
 - MAC – XCODE
   - <https://developer.apple.com/xcode/>
+
+## iPlug2
+https://github.com/iPlug2
+
 
 ## MAXIMILIAN– EASY TO USE AUDIO FRAMEWORK
 

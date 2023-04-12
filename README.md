@@ -49,7 +49,7 @@ https://github.com/iPlug2
 
 ## C++ Ressources
 
-- <http://cplusplus.com>
+- https://www.geeksforgeeks.org/cpp-loops/
 - C++ Video Tutorials – <https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb>
 - C++ Reference / Tutorials – <https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/?ref=lbp>
 

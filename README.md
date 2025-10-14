@@ -72,6 +72,8 @@ https://github.com/iPlug2
 - P5.js sound – <https://p5js.org/reference/#/libraries/p5.sound>
 - Tone.js – <https://tonejs.github.io>
 - maxmilian.js – <https://mimicproject.com/guides/maximJS>
+- examples:
+  - https://experiments.withgoogle.com/search?q=web%20audio
 
 # CREATIVE CODING
 

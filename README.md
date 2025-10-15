@@ -59,6 +59,7 @@ https://github.com/iPlug2
 - Collection of Libraries from MFT (Music Tech Fest) – <https://mtflabs.net/toolkit/>
 - librosa – a python package for music and audio analysis
   - <https://librosa.org/doc/latest/index.html>
+- Essentia C++ Open-source library and tools for audio and music analysis, description and synthesis - <https://essentia.upf.edu/>
 
 ### AI / ML – Maschine Learning
 
